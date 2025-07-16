@@ -1,2 +1,2 @@
 # palindeom
-simple palindrom
+simple palindrome
