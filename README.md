@@ -1,1 +1,2 @@
 # palindeom
+simple palindrom
